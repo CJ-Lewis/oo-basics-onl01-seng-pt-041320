@@ -14,4 +14,5 @@ class Shoe
       @condition
   end
 end
+end
 
